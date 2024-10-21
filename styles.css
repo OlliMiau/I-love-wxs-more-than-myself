@@ -1,0 +1,131 @@
+body {
+    color: white;
+    background:#FF9900 ;
+    margin: 50px;
+    font-family: "Kalam", cursive;
+    margin-bottom: 100px;
+}
+
+header {
+    padding: 10px;
+    font-size: 32px;
+}
+
+.ruikasa {
+    background: rgb(255, 157, 45);
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto {
+    margin-right: 10%;
+}
+h1 {
+    font-size: 25px;
+    color: #ffbb00;
+}
+h2 {
+    font-size: 25px;
+    color:#FF66BC;
+}
+h3 {
+    font-size: 25px;
+    color: #34DD9A;
+}
+h4 {
+    font-size: 25px;
+    color: #BB88ED;
+}
+h5 {
+    font-size: 25px;
+    color: #ffbb00;
+}
+p {
+    font-size: 20px;
+    color: white;
+}
+
+.starss {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.nenekasa {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.nenekasa img {
+    height: 200px;
+    opacity: 0.5;
+}
+.nenekasa img:hover{
+    opacity: 1.0;
+}
+.mizurui {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.mizurui img {
+    height: 200px;
+    opacity: 0.5;
+}
+.mizurui img:hover{
+    opacity: 1.0;
+}
+.polyshow {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.polyshow img {
+    height: 200px;
+    opacity: 0.5;
+}
+.polyshow img:hover{
+    opacity: 1.0;
+}
+.emukasa {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.emukasa img {
+    height: 200px;
+    opacity: 0.5;
+}
+.emukasa img:hover{
+    opacity: 1.0;
+}
+.wonderhoy {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.robonene {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.weirdo {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+h6 {
+    font-size: 25px;
+    color:#FF66BC;
+}
+h7 {
+    font-size: 25px;
+    color: #34DD9A;
+}
+h8 {
+    font-size: 25px;
+    color: #BB88ED;
+}
